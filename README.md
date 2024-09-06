@@ -16,11 +16,9 @@ O objetivo deste repositório é simplificar o acesso à solução específica d
 C#
 ASP.NET Core
 Entity Framework Core
-SQL Server (ou o banco de dados de sua escolha)
-Swagger (para documentação dos endpoints)
+MySQL
 
 ✨ Funcionalidades
 
 CRUD completo para gerenciamento de produtos, categorias, e clientes.
 Integração com Entity Framework para mapeamento objeto-relacional.
-Documentação automática dos endpoints com Swagger.
