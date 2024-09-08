@@ -12,7 +12,7 @@ estão disponíveis outras aulas e projetos que envolvem o desenvolvimento com C
 
 O objetivo deste repositório é simplificar o acesso à solução específica da WebAPI da Loja, isolando-a para uma análise mais clara e detalhada.
 
-✨ Funcionalidades
+✨ **Funcionalidades**
 
 - CRUD completo para gerenciamento de produtos, categorias, e clientes.
 - Integração com Entity Framework para mapeamento objeto-relacional.´
@@ -20,10 +20,10 @@ O objetivo deste repositório é simplificar o acesso à solução específica d
 - Testado no PostMan.
 - Migrations e também conexão com Banco de Dados Local usando MySQL.
 
-🛠️ Tecnologias Utilizadas
+🛠️ **Tecnologias Utilizadas**
 
-C#
-ASP.NET Core
-Entity Framework Core
-MySQL
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- MySQL
 
